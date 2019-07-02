@@ -24,6 +24,10 @@
 }
 
 @media (max-width: 768px) {
+  .main{
+    height: auto;
+    padding-bottom: 30px
+  }
   .main__title {
     max-width: 480px;
   }
