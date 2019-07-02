@@ -1,4 +1,3 @@
-# goodface.github.io
 
 # Technology stack:
 * HTML
