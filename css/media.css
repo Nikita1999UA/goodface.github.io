@@ -40,6 +40,9 @@
 }
 
 @media (max-width: 540px) {
+  .main{
+    height: 100vh !important;
+  }
   .main__title {
     text-align: center;
     font-size: 22px;
