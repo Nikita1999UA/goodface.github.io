@@ -4,7 +4,6 @@
 * CSS
 * Slick.js
 * SASS
-* SVG
 * BEM methodology
 
 # Work time is 2 hour
